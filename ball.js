@@ -1,3 +1,7 @@
+/*
+ * Thu commit ty xem nao
+ */
+
 function Ball(radius, x, y) {
     if (typeof radius == "number") {
         this.radius = radius;
